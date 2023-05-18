@@ -14,7 +14,7 @@ const Erp = () => {
       </div>
       <div className='mt-6'>
         <p className='text-3xl leading-7 my-3 opacity-90 mx-5  font-semibold ml-72 '>
-            Modules Coverd
+            Modules Covered
         </p>
       </div>
     <div className='mt-8 flex  max-w-screen-lg mx-auto  justify-center items-center gap-11  '>
