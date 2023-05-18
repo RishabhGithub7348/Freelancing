@@ -31,7 +31,7 @@ const RequestDemo = () => {
     setLoading(true);
   
     axios
-      .post("http://localhost:3001/api/contact", form)
+      .post("https://erp-portal.onrender.com/api/contact", form)
       .then((response) => {
         setLoading(false);
         if (response.status === 200) {
