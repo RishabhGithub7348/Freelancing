@@ -20,7 +20,7 @@ function App() {
       <div className="flex flex-col overflow-x-hidden overscroll-none w-full h-screen">
       <Navbar/>
      
-        <div className="flex-1    overflow-y-auto">
+        <div className="flex-1 container-snap    overflow-y-auto">
         <div className='w-full h-5/6   p-2'>
         <SliderChange/>
         </div>
