@@ -1,0 +1,46 @@
+.footer {
+    
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    width : 97vw;
+    margin : 0 auto;
+  }
+  .custom-width{
+    width: 300px;
+  }
+  
+  .footer-column {
+    flex-basis: 20%;
+  }
+  
+  h4 {
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  ul li {
+    margin-bottom: 5px;
+  }
+  
+  .social-media img {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+  }
+  
+  .map{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+  }
+  
+  .map iframe{
+    justify-content: center;
+    align-items: center;
+  }
